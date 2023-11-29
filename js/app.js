@@ -1,6 +1,6 @@
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker
-    .register("/sw.js")
+    .register("/pwaios/sw.js")
     .then((reg) => {
       console.log("SW Reg done", reg);
     })
