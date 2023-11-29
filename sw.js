@@ -1,15 +1,15 @@
 const myfiles = "myfiles"
 const files = [
-    '/',
-    '/index.html',
-    '/img/dish.png',
-    '/css/materialize.min.css',
-    '/css/styles.css',
-    '/js/app.js',
-    '/js/ui.js',
-    '/js/materialize.min.js',
-    '/pages/about.html',
-    '/pages/contact.html'
+    '/pwaios/',
+    '/pwaios/index.html',
+    '/pwaios/img/dish.png',
+    '/pwaios/css/materialize.min.css',
+    '/pwaios/css/styles.css',
+    '/pwaios/js/app.js',
+    '/pwaios/js/ui.js',
+    '/pwaios/js/materialize.min.js',
+    '/pwaios/pages/about.html',
+    '/pwaios/pages/contact.html'
 ]
 
 
